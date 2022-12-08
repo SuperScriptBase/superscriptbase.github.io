@@ -1,0 +1,80 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on </title>
+        <link>https://superscriptbz.github.io/posts/</link>
+        <description>Recent content in Posts on </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <lastBuildDate>Thu, 08 Dec 2022 14:25:09 -0700</lastBuildDate>
+        <atom:link href="https://superscriptbz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Search Engines For Pentesters</title>
+            <link>https://superscriptbz.github.io/posts/2022/12/search-engines-for-pentesters/</link>
+            <pubDate>Thu, 08 Dec 2022 14:25:09 -0700</pubDate>
+            
+            <guid>https://superscriptbz.github.io/posts/2022/12/search-engines-for-pentesters/</guid>
+            <description> shodan.io (Server) google.com (Dorks) wigle.net (Wifi Networks) grep.app (Codes Search) app.binaryedge (Threat Intelligence) onyphe.io (Server) viz.graynoise.io (Threat Intelligence) censys.io (Server) hunter.io (Email Addresses) fofa.info (Threat Intelligence) zoomeye.org (Threat Intelligence) leakix.net (Threat Intelligence) intelx.io (OSINT) app.netlas.io (Attack Surface) searchcode.com (Codes Search) urlscan.io (Threat Intelligence) publicwww.com (Codes Search) fullhunt.io (Attack Surface) socradar.io (Threat Intelligence) binaryedge.io (Attack Surface) ivre.rocks (Server) crt.sh (Certificate Search) vulners.com (Vulnerabilities) pulsedive.com (Threat Intelligence) </description>
+            <content type="html"><![CDATA[<ol>
+<li>shodan.io (Server)</li>
+<li>google.com (Dorks)</li>
+<li>wigle.net (Wifi Networks)</li>
+<li>grep.app (Codes Search)</li>
+<li>app.binaryedge (Threat Intelligence)</li>
+<li>onyphe.io (Server)</li>
+<li>viz.graynoise.io (Threat Intelligence)</li>
+<li>censys.io (Server)</li>
+<li>hunter.io (Email Addresses)</li>
+<li>fofa.info (Threat Intelligence)</li>
+<li>zoomeye.org (Threat Intelligence)</li>
+<li>leakix.net (Threat Intelligence)</li>
+<li>intelx.io (OSINT)</li>
+<li>app.netlas.io (Attack Surface)</li>
+<li>searchcode.com (Codes Search)</li>
+<li>urlscan.io (Threat Intelligence)</li>
+<li>publicwww.com (Codes Search)</li>
+<li>fullhunt.io (Attack Surface)</li>
+<li>socradar.io (Threat Intelligence)</li>
+<li>binaryedge.io (Attack Surface)</li>
+<li>ivre.rocks (Server)</li>
+<li>crt.sh (Certificate Search)</li>
+<li>vulners.com (Vulnerabilities)</li>
+<li>pulsedive.com (Threat Intelligence)</li>
+</ol>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Mac iOS Commands</title>
+            <link>https://superscriptbz.github.io/posts/2022/12/mac-ios-commands/</link>
+            <pubDate>Thu, 08 Dec 2022 14:06:23 -0700</pubDate>
+            
+            <guid>https://superscriptbz.github.io/posts/2022/12/mac-ios-commands/</guid>
+            <description>Open Spotlight Search - command key + spacebar Say command - ❯ say hello world Show wifi passwords - ❯ security find-generic-password -wa wifiname &amp;gt; password Show wifi passwords + copy ❯ security find-generic-password -wa wifiname | pbcopy (copy and share) After running use command to paste save or email - command + v command+option+shift+v - will paste with out formatting (plain text) command+v - will paste to share Type - caffeinate &amp;ndash; prevent the system from sleeping on behalf of a utility Screen Capture - command+shift+3 - whole screen Screen Capture - command+shift_4 - selected area Screen Capture - command+control+shift+4 - copies to clipboard Screen Capture Name File - defaults write com.</description>
+            <content type="html"><![CDATA[<ol>
+<li>Open Spotlight Search - command key + spacebar</li>
+<li>Say command - ❯ say hello world</li>
+<li>Show wifi passwords - ❯ security find-generic-password -wa wifiname &gt; password</li>
+<li>Show wifi passwords + copy ❯ security find-generic-password -wa wifiname | pbcopy (copy and share)
+<ol>
+<li>After running use command to paste save or email - command + v</li>
+</ol>
+</li>
+<li>command+option+shift+v - will paste with out formatting (plain text)</li>
+<li>command+v - will paste to share</li>
+<li>Type - caffeinate &ndash; prevent the system from sleeping on behalf of a utility</li>
+<li>Screen Capture - command+shift+3 - whole screen</li>
+<li>Screen Capture - command+shift_4 - selected area</li>
+<li>Screen Capture - command+control+shift+4 - copies to clipboard</li>
+<li>Screen Capture Name File - defaults write com.applescreencapture name “RENAME”</li>
+<li>Screen Capture Name File Type - defaults write com.applescreencapture type  jpg</li>
+<li>Screen Capture Name File Type - defaults write com.applescreencapture location ~/Desktop/screenshots</li>
+<li>See that all has been downloaded - sqlite3 ~/Library/Preferences/com.apple.LaunchServices.QuarantineEventsV* &lsquo;select LSQuarantineDataURLString from LSQuarantineEvent&rsquo;</li>
+<li>Change Password - passwd</li>
+</ol>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
