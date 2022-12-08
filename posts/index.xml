@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on </title>
-        <link>https://superscriptbz.github.io/posts/</link>
+        <link>https://superscriptbase.github.io/posts/</link>
         <description>Recent content in Posts on </description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
         <lastBuildDate>Thu, 08 Dec 2022 14:25:09 -0700</lastBuildDate>
-        <atom:link href="https://superscriptbz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://superscriptbase.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Search Engines For Pentesters</title>
-            <link>https://superscriptbz.github.io/posts/2022/12/search-engines-for-pentesters/</link>
+            <link>https://superscriptbase.github.io/posts/2022/12/search-engines-for-pentesters/</link>
             <pubDate>Thu, 08 Dec 2022 14:25:09 -0700</pubDate>
             
-            <guid>https://superscriptbz.github.io/posts/2022/12/search-engines-for-pentesters/</guid>
+            <guid>https://superscriptbase.github.io/posts/2022/12/search-engines-for-pentesters/</guid>
             <description> shodan.io (Server) google.com (Dorks) wigle.net (Wifi Networks) grep.app (Codes Search) app.binaryedge (Threat Intelligence) onyphe.io (Server) viz.graynoise.io (Threat Intelligence) censys.io (Server) hunter.io (Email Addresses) fofa.info (Threat Intelligence) zoomeye.org (Threat Intelligence) leakix.net (Threat Intelligence) intelx.io (OSINT) app.netlas.io (Attack Surface) searchcode.com (Codes Search) urlscan.io (Threat Intelligence) publicwww.com (Codes Search) fullhunt.io (Attack Surface) socradar.io (Threat Intelligence) binaryedge.io (Attack Surface) ivre.rocks (Server) crt.sh (Certificate Search) vulners.com (Vulnerabilities) pulsedive.com (Threat Intelligence) </description>
             <content type="html"><![CDATA[<ol>
 <li>shodan.io (Server)</li>
@@ -47,10 +47,10 @@
         
         <item>
             <title>Mac iOS Commands</title>
-            <link>https://superscriptbz.github.io/posts/2022/12/mac-ios-commands/</link>
+            <link>https://superscriptbase.github.io/posts/2022/12/mac-ios-commands/</link>
             <pubDate>Thu, 08 Dec 2022 14:06:23 -0700</pubDate>
             
-            <guid>https://superscriptbz.github.io/posts/2022/12/mac-ios-commands/</guid>
+            <guid>https://superscriptbase.github.io/posts/2022/12/mac-ios-commands/</guid>
             <description>Open Spotlight Search - command key + spacebar Say command - ❯ say hello world Show wifi passwords - ❯ security find-generic-password -wa wifiname &amp;gt; password Show wifi passwords + copy ❯ security find-generic-password -wa wifiname | pbcopy (copy and share) After running use command to paste save or email - command + v command+option+shift+v - will paste with out formatting (plain text) command+v - will paste to share Type - caffeinate &amp;ndash; prevent the system from sleeping on behalf of a utility Screen Capture - command+shift+3 - whole screen Screen Capture - command+shift_4 - selected area Screen Capture - command+control+shift+4 - copies to clipboard Screen Capture Name File - defaults write com.</description>
             <content type="html"><![CDATA[<ol>
 <li>Open Spotlight Search - command key + spacebar</li>

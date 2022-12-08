@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>code on </title>
-    <link>https://superscriptbz.github.io/tags/code/</link>
+    <link>https://superscriptbase.github.io/tags/code/</link>
     <description>Recent content in code on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 08 Dec 2022 14:06:23 -0700</lastBuildDate><atom:link href="https://superscriptbz.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Dec 2022 14:06:23 -0700</lastBuildDate><atom:link href="https://superscriptbase.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Code</title>
-      <link>https://superscriptbz.github.io/code/firstcode/</link>
+      <link>https://superscriptbase.github.io/code/firstcode/</link>
       <pubDate>Thu, 08 Dec 2022 14:06:23 -0700</pubDate>
       
-      <guid>https://superscriptbz.github.io/code/firstcode/</guid>
+      <guid>https://superscriptbase.github.io/code/firstcode/</guid>
       <description>ROOTSHELL ON YA BOOTSTRAP:
 BOTNET MJOIN</description>
     </item>

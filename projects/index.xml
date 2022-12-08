@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>https://superscriptbz.github.io/projects/</link>
+    <link>https://superscriptbase.github.io/projects/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 08 Dec 2022 13:41:48 -0700</lastBuildDate><atom:link href="https://superscriptbz.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Dec 2022 13:41:48 -0700</lastBuildDate><atom:link href="https://superscriptbase.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://superscriptbz.github.io/projects/projects/</link>
+      <link>https://superscriptbase.github.io/projects/projects/</link>
       <pubDate>Thu, 08 Dec 2022 13:41:48 -0700</pubDate>
       
-      <guid>https://superscriptbz.github.io/projects/projects/</guid>
+      <guid>https://superscriptbase.github.io/projects/projects/</guid>
       <description>Who is that?</description>
     </item>
     
