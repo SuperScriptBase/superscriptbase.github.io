@@ -1,16 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://superscriptbase.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2022-12-08T16:46:39-07:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://superscriptbase.github.io/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://superscriptbase.github.io/</loc>
+    <lastmod>2023-01-03T11:07:10-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/tags/cybersecurity/</loc>
+    <lastmod>2023-01-03T11:07:10-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/posts/2023/01/hacker-tools/</loc>
+    <lastmod>2023-01-03T11:07:10-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/tags/posts/</loc>
+    <lastmod>2023-01-03T11:07:10-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/posts/</loc>
+    <lastmod>2023-01-03T11:07:10-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/tags/</loc>
+    <lastmod>2023-01-03T11:07:10-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/posts/2023/01/staying-private/</loc>
+    <lastmod>2023-01-03T10:44:19-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/posts/2023/01/zimbro-cve-2022-27925/</loc>
+    <lastmod>2023-01-03T10:23:09-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/posts/2023/01/clearing-info-windows-commands/</loc>
+    <lastmod>2023-01-03T10:09:50-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/tags/windows/</loc>
+    <lastmod>2023-01-03T10:09:50-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/posts/2023/01/tools-to-staying-anonymous/</loc>
+    <lastmod>2023-01-03T10:00:01-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/posts/2022/12/another-mac-command-page/</loc>
+    <lastmod>2022-12-08T16:46:39-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/tags/mac/</loc>
+    <lastmod>2022-12-08T16:46:39-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/posts/2022/12/search-engines-for-pentesters/</loc>
+    <lastmod>2022-12-08T14:25:09-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/tags/code/</loc>
+    <lastmod>2022-12-08T14:06:23-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/code/</loc>
+    <lastmod>2022-12-08T14:06:23-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/code/firstcode/</loc>
+    <lastmod>2022-12-08T14:06:23-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/posts/2022/12/mac-ios-commands/</loc>
+    <lastmod>2022-12-08T14:06:23-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/tags/about/</loc>
+    <lastmod>2022-12-08T13:50:29-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/about/about/</loc>
+    <lastmod>2022-12-08T13:50:29-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/about/</loc>
+    <lastmod>2022-12-08T13:50:29-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/tags/projects/</loc>
+    <lastmod>2022-12-08T13:41:48-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/projects/</loc>
+    <lastmod>2022-12-08T13:41:48-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/projects/projects/</loc>
+    <lastmod>2022-12-08T13:41:48-07:00</lastmod>
+  </url><url>
+    <loc>https://superscriptbase.github.io/categories/</loc>
+  </url><url>
+    <loc>https://superscriptbase.github.io/series/</loc>
+  </url>
+</urlset>

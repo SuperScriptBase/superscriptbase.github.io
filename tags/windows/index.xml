@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows on </title>
+    <link>https://superscriptbase.github.io/tags/windows/</link>
+    <description>Recent content in windows on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 03 Jan 2023 10:09:50 -0700</lastBuildDate><atom:link href="https://superscriptbase.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clearing Info Windows Commands</title>
+      <link>https://superscriptbase.github.io/posts/2023/01/clearing-info-windows-commands/</link>
+      <pubDate>Tue, 03 Jan 2023 10:09:50 -0700</pubDate>
+      
+      <guid>https://superscriptbase.github.io/posts/2023/01/clearing-info-windows-commands/</guid>
+      <description>A. Running command prompt with Administrator
+C:\WINDOWS\system32&amp;gt;ipconfig /flushdns B. Clearing Host Browser Cache in Chrome
+Browser window: chrome://net-internals/#dns Click on &amp;ldquo;Clear host cache&amp;rdquo; next to Host resolver cache C. </description>
+    </item>
+    
+  </channel>
+</rss>

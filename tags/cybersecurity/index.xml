@@ -6,8 +6,45 @@
     <description>Recent content in cybersecurity on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 08 Dec 2022 14:25:09 -0700</lastBuildDate><atom:link href="https://superscriptbase.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 03 Jan 2023 11:07:10 -0700</lastBuildDate><atom:link href="https://superscriptbase.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacker Tools</title>
+      <link>https://superscriptbase.github.io/posts/2023/01/hacker-tools/</link>
+      <pubDate>Tue, 03 Jan 2023 11:07:10 -0700</pubDate>
+      
+      <guid>https://superscriptbase.github.io/posts/2023/01/hacker-tools/</guid>
+      <description> NMAP METASPLOIT JOHN THE RIPPER BURP SUITE BETTERCAP SQLMAP WIRESHARK SOCIAL ENGINEERING TOOLKIT [SET] AIRCRACK.NG NETCAT </description>
+    </item>
+    
+    <item>
+      <title>Staying Private</title>
+      <link>https://superscriptbase.github.io/posts/2023/01/staying-private/</link>
+      <pubDate>Tue, 03 Jan 2023 10:44:19 -0700</pubDate>
+      
+      <guid>https://superscriptbase.github.io/posts/2023/01/staying-private/</guid>
+      <description> The less you share, the less people will interfere. It&amp;rsquo;s easier to deal with your drama when it&amp;rsquo;s private. You will stop caring about other&amp;rsquo;s opinion of you. Your safety will be less compromised. It allows you to focus on important people - &amp;ldquo;You&amp;rdquo;. It helps you connect with people on a deeper level. </description>
+    </item>
+    
+    <item>
+      <title>Zimbro CVE-2022-27925</title>
+      <link>https://superscriptbase.github.io/posts/2023/01/zimbro-cve-2022-27925/</link>
+      <pubDate>Tue, 03 Jan 2023 10:23:09 -0700</pubDate>
+      
+      <guid>https://superscriptbase.github.io/posts/2023/01/zimbro-cve-2022-27925/</guid>
+      <description> Privilege Escalation Vector A. PwnKit Vulnerability
+Successful exploitation of this vulnerability allows anu unprivileged user to gain root privileges on the target. </description>
+    </item>
+    
+    <item>
+      <title>Tools to Staying Anonymous</title>
+      <link>https://superscriptbase.github.io/posts/2023/01/tools-to-staying-anonymous/</link>
+      <pubDate>Tue, 03 Jan 2023 10:00:01 -0700</pubDate>
+      
+      <guid>https://superscriptbase.github.io/posts/2023/01/tools-to-staying-anonymous/</guid>
+      <description> VPN TOR anonsurf proxychains Proxy Servers Tails OS </description>
+    </item>
+    
     <item>
       <title>Search Engines For Pentesters</title>
       <link>https://superscriptbase.github.io/posts/2022/12/search-engines-for-pentesters/</link>
